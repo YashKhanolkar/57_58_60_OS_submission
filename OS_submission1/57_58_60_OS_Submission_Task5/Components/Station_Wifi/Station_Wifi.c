@@ -11,8 +11,8 @@
 #include "lwip/sys.h"
 #include "esp_err.h"
 
-#define EXAMPLE_ESP_WIFI_SSID      "BigB Hi Ext"
-#define EXAMPLE_ESP_WIFI_PASS      "like2love"
+#define EXAMPLE_ESP_WIFI_SSID      "AndroidAP"
+#define EXAMPLE_ESP_WIFI_PASS      "MyhpYashK"
 #define EXAMPLE_ESP_MAXIMUM_RETRY  4
 
 /* FreeRTOS event group to signal when we are connected*/
